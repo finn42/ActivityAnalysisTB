@@ -1,0 +1,5 @@
+This matlab toolbox is intended for the analysis of collections of synchronously sampled time series. It has been developed for analysing continuous behavioural and physiological measures of experience during music listening by Finn Upham during MA studies at McGill University under Stephen McAdams and PhD studies at New York University under Morwaread Mary Farbood. 
+
+Please use the demos to get familiar with the analysis tools. 
+
+Licensed as CC BY-NC-SA, by Finn Upham 2013.
